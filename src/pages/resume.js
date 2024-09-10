@@ -1,9 +1,9 @@
 import React from 'react';
 import { Box, Typography, ButtonBase } from '@mui/material';
 import Card from '../components/Card';
-import OrderManagement from '/Users/akulmaheshwari/Downloads/website/src/assets/Order Management.gif';
-import IMA from '/Users/akulmaheshwari/Downloads/website/src/assets/IMA.gif';
-import Website from '/Users/akulmaheshwari/Downloads/website/src/assets/Website.png';
+import OrderManagement from '../assets/Order Management.gif';
+import IMA from '../assets/IMA.gif';
+import Website from '../assets/Website.png';
 
 const Resume = () => {
 

@@ -2,12 +2,11 @@ import React from 'react';
 import { Box, Typography } from '@mui/material';
 import Card from '../components/Card';
 import CurrentlyPlaying from '../components/currently';
-import cornellLogo from '/Users/akulmaheshwari/Downloads/website/src/assets/Cornell Logo.png';
-import yosemite from '/Users/akulmaheshwari/Downloads/website/src/assets/Yosemite.JPG';
-import wordCloud from '/Users/akulmaheshwari/Downloads/website/src/assets/Word Cloud.png';
-import Conquer from '/Users/akulmaheshwari/Downloads/website/src/assets/Conquer.jpg';
-import Police from '/Users/akulmaheshwari/Downloads/website/src/assets/Police.jpeg';
-import Family from '/Users/akulmaheshwari/Downloads/website/src/assets/Family.JPG';
+import cornellLogo from '../assets/Cornell Logo.png';
+import wordCloud from '../assets/Word Cloud.png';
+import Conquer from '../assets/Conquer.jpg';
+import Police from '../assets/Police.jpeg';
+import Family from '../assets/Family.JPG';
 
 const About = () => {
 

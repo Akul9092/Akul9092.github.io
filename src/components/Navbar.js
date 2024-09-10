@@ -23,7 +23,7 @@ const Navbar = () => {
             </Box>
             <Box display="flex" alignItems="center" justifyContent='space-evenly' sx = {{width: '15%', m: 2}}>
                 <Button onClick={handleEmailClick}>
-                    <Box component='img' src={require('/Users/akulmaheshwari/Downloads/website/src/assets/Mail Icon.png')}
+                    <Box component='img' src={require('../assets/Mail Icon.png')}
                     sx={{ width: 30,         
                         '&:hover': {
                             transform: 'scale(1.2)',
@@ -32,7 +32,7 @@ const Navbar = () => {
 
                 <a href="https://www.linkedin.com/in/akul-maheshwari/" target="_blank" rel="noopener noreferrer">
                     <Button>
-                        <Box component="img" src={require('/Users/akulmaheshwari/Downloads/website/src/assets/Black Linkedin Icon.png')}
+                        <Box component="img" src={require('../assets/Black Linkedin Icon.png')}
                         sx={{ width: 30,         
                             '&:hover': {
                                 transform: 'scale(1.2)',
@@ -41,7 +41,7 @@ const Navbar = () => {
                 </a>
                 <a href="https://github.com/Akul9092" target="_blank" rel="noopener noreferrer">
                     <Button>
-                        <Box component="img" src={require('/Users/akulmaheshwari/Downloads/website/src/assets/Github Icon.png')}
+                        <Box component="img" src={require('../assets/Github Icon.png')}
                         sx={{ width: 30,         
                             '&:hover': {
                                 transform: 'scale(1.2)',
