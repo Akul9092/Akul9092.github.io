@@ -93,7 +93,7 @@ const Resume = () => {
                     </ButtonBase>
                 </Card>
                 <Card >
-                    <ButtonBase onClick = {()=>redirectToLink('https://github.com')} sx = {{height: '100%', width: '100%'}}>
+                    <ButtonBase onClick = {()=>redirectToLink('https://github.com/Akul9092/Akul9092.github.io.git')} sx = {{height: '100%', width: '100%'}}>
                         <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-evenly', flexDirection: 'column', height: '100%', width: '100%'
                         }}>
                             <Box component='img' src = {Website} sx = {{height: '30%'}}/>
