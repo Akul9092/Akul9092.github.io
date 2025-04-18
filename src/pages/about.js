@@ -61,7 +61,7 @@ const About = () => {
                     BS. Computer Science
                 </Typography>
                 <Typography variant="body2" component="div">
-                    (Aug 2023 - May 2026)
+                    (Aug 2023 - May 2027)
                 </Typography>
                 </Box>
             </Card>
